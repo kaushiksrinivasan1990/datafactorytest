@@ -3,3 +3,4 @@ dog,3,4.5,nice
 horse,4,5,danger
 tiger,5,6,danger
 dragon,7,13.5,devil
+snake,4,2,nice
